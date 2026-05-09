@@ -14,6 +14,6 @@ This project is a simple distributed chat system based on Client-Server architec
 - GitHub
 
 ## Team Members
-- اندريه 
-- Member 2
-- Member 3
+- اندريه الياس 
+- جورج حنا
+- ابراهيم حموده
