@@ -1,11 +1,11 @@
-# 💬 Client-Server Chat Application
+#  Client-Server Chat Application
 
 A real-time multi-user chat system built with **Python TCP Sockets** following the **Client-Server architecture**.  
 Supports public messaging, private messages, message history, and an optional modern GUI.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 | Item | Details |
 |---|---|
@@ -16,25 +16,25 @@ Supports public messaging, private messages, message history, and an optional mo
 
 ---
 
-## ✅ Features
+##  Features
 
 | Feature | Status |
 |---|---|
-| Multi-client support (simultaneous connections) | ✅ |
-| Username registration on login | ✅ |
-| Public broadcasting to all users | ✅ |
-| Private messaging `/msg <user> <text>` | ✅ |
-| View online users `/users` | ✅ |
-| Message history log `/history` | ✅ |
-| Clean logout `quit` | ✅ |
-| Automatic chat log file (`chat_history.log`) | ✅ |
-| Duplicate username rejection | ✅ |
-| Thread-safe multi-client handling | ✅ |
-| Modern GUI client (optional) | ✅ |
+| Multi-client support (simultaneous connections) 
+| Username registration on login 
+| Public broadcasting to all users 
+| Private messaging `/msg <user> <text>` 
+| View online users `/users` 
+| Message history log `/history` 
+| Clean logout `quit` 
+| Automatic chat log file (`chat_history.log`) 
+| Duplicate username rejection 
+| Thread-safe multi-client handling 
+| Modern GUI client (optional) 
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 
 ```
 chat-system-project/
@@ -48,7 +48,7 @@ chat-system-project/
 
 ---
 
-## ⚙️ Technologies Used
+##  Technologies Used
 
 | Technology | Purpose |
 |---|---|
@@ -61,7 +61,7 @@ chat-system-project/
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ### Prerequisites
 - Python 3.x
@@ -108,7 +108,7 @@ Open as many client windows as you want.
 
 ---
 
-## 🖥️ Example Session
+##  Example Session
 
 **Server:**
 ```
@@ -147,7 +147,7 @@ You: /msg Alice Hey, private message!
 
 ---
 
-## 📐 System Architecture
+##  System Architecture
 
 ```
            ┌──────────────────────┐
@@ -181,7 +181,7 @@ You: /msg Alice Hey, private message!
 
 ---
 
-## 📋 Use Cases
+##  Use Cases
 
 | Use Case | Description |
 |---|---|
@@ -194,24 +194,24 @@ You: /msg Alice Hey, private message!
 
 ---
 
-## 👥 Team Members
+##  Team Members
 
 | Member | Role |
 |---|---|
-| اندريه | Server Development |
-| Member 2 | Client Development |
-| Member 3 | Testing + Documentation + GitHub Management |
+| Ibrahim hamodah | Server Development |
+| George hanna | Client Development |
+| Andreh Elias | Testing + Documentation + GitHub Management |
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
-- 🗨️ Chat rooms / channels
-- 📁 File sharing between users
-- 🔐 Password authentication
-- 🗄️ Database for persistent message storage
-- 🖥️ Web-based interface
-- 🔔 Desktop notifications
+-  Chat rooms / channels
+-  File sharing between users
+-  Password authentication
+-  Database for persistent message storage
+-  Web-based interface
+-  Desktop notifications
 
 ---
 
